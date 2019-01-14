@@ -1,0 +1,6 @@
+<qmux name="my-mux" logger="Q2">
+    <key>11</key>
+    <in>my-mux-queue</in>
+    <out>my-tm-queue</out>
+    <ready>my-mux-queue.ready</ready>
+</qmux>

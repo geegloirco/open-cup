@@ -1,5 +1,0 @@
-<transaction-manager name="my-tm" realm="my-tm" logger="Q2">
-    <property name="queue" value="my-tm-queue"/>
-
-    <participant class="ir.geeglo.dev.product.opencup.participant.MainParticipant" />
-</transaction-manager>

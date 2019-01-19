@@ -10,7 +10,7 @@ dependency-reduced-pom.xml
 **/log
 **/log/*
 
-scratch-dir/classes
+**/scratch-dir/classes
 
 # compiled output
 **/dist
